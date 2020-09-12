@@ -14,7 +14,7 @@ function multiplicar() {};
 
 // recebe três parâmetros
 // o primeiro é um número, o segundo é um número e o terceiro é uma function.
-// retorna o calculo da função do 3º parâmetro dos dois primeiro parâmetros;
+// retorna o calculo da função do 3º parâmetro com dois primeiro parâmetros;
 function calc() {}
 
 
